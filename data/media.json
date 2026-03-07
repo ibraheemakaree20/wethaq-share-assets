@@ -1,0 +1,24 @@
+[
+    {
+        "id": "vid_001",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_001.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_001.jpg"
+    },
+    {
+        "id": "vid_002",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_002.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_002.jpg"
+    },
+    {
+        "id": "img_001",
+        "type": "image",
+        "url": "media/images/img_001.jpg"
+    },
+    {
+        "id": "img_002",
+        "type": "image",
+        "url": "media/images/img_002.jpg"
+    }
+]
