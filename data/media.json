@@ -12,6 +12,42 @@
         "thumbnailUrl": "media/videos-data/thumbnails/vid_002.jpg"
     },
     {
+        "id": "vid_003",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_003.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_003.jpg"
+    },
+    {
+        "id": "vid_004",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_004.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_004.jpg"
+    },
+    {
+        "id": "vid_005",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_005.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_005.jpg"
+    },
+    {
+        "id": "vid_006",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_006.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_006.jpg"
+    },
+    {
+        "id": "vid_007",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_007.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_007.jpg"
+    },
+    {
+        "id": "vid_008",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_008.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_008.jpg"
+    },
+    {
         "id": "img_001",
         "type": "image",
         "url": "media/images/img_001.jpg"
@@ -20,5 +56,15 @@
         "id": "img_002",
         "type": "image",
         "url": "media/images/img_002.jpg"
+    },
+    {
+        "id": "img_003",
+        "type": "image",
+        "url": "media/images/img_003.jpg"
+    },
+    {
+        "id": "img_004",
+        "type": "image",
+        "url": "media/images/img_004.jpg"
     }
 ]
