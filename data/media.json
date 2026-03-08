@@ -60,6 +60,12 @@
         "thumbnailUrl": "media/videos-data/thumbnails/vid_010.jpg"
     },
     {
+        "id": "vid_011",
+        "type": "video",
+        "url": "media/videos-data/videos/vid_011.mp4",
+        "thumbnailUrl": "media/videos-data/thumbnails/vid_011.jpg"
+    },
+    {
         "id": "img_001",
         "type": "image",
         "url": "media/images/img_001.jpg"
