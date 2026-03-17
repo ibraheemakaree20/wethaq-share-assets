@@ -72,11 +72,6 @@ assets/videos/
 assets/images/
 ```
 
-Used for:
-
-* fast loading
-* offline usage
-
 ---
 
 ### External Media
