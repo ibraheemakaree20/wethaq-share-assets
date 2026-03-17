@@ -2,102 +2,55 @@
     {
         "id": "vid_001",
         "type": "video",
-        "url": "media/videos-data/videos/vid_001.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_001.jpg"
+        "source": "internal",
+        "url": "/assets/videos/vid_001.mp4"
     },
     {
         "id": "vid_002",
         "type": "video",
-        "url": "media/videos-data/videos/vid_002.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_002.jpg"
+        "source": "internal",
+        "url": "/assets/videos/vid_002.mp4"
     },
     {
         "id": "vid_003",
         "type": "video",
-        "url": "media/videos-data/videos/vid_003.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_003.jpg"
+        "source": "internal",
+        "url": "/assets/videos/vid_003.mp4"
     },
     {
         "id": "vid_004",
         "type": "video",
-        "url": "media/videos-data/videos/vid_004.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_004.jpg"
+        "source": "internal",
+        "url": "/assets/videos/vid_004.mp4"
     },
     {
         "id": "vid_005",
         "type": "video",
-        "url": "media/videos-data/videos/vid_005.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_005.jpg"
+        "source": "external",
+        "url": "https://pixabay.com/videos/winter-snow-nature-cold-frost-336603/"
     },
     {
         "id": "vid_006",
         "type": "video",
-        "url": "media/videos-data/videos/vid_006.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_006.jpg"
+        "source": "external",
+        "url": "https://pixabay.com/videos/horses-animals-wildlife-running-206294/"
     },
     {
         "id": "vid_007",
         "type": "video",
-        "url": "media/videos-data/videos/vid_007.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_007.jpg"
-    },
-    {
-        "id": "vid_008",
-        "type": "video",
-        "url": "media/videos-data/videos/vid_008.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_008.jpg"
-    },
-    {
-        "id": "vid_009",
-        "type": "video",
-        "url": "media/videos-data/videos/vid_009.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_009.jpg"
-    },
-    {
-        "id": "vid_010",
-        "type": "video",
-        "url": "media/videos-data/videos/vid_010.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_010.jpg"
-    },
-    {
-        "id": "vid_011",
-        "type": "video",
-        "url": "media/videos-data/videos/vid_011.mp4",
-        "thumbnailUrl": "media/videos-data/thumbnails/vid_011.jpg"
+         "source": "external",
+        "url": "https://pixabay.com/videos/sky-clouds-atmosphere-weather-213763/"
     },
     {
         "id": "img_001",
         "type": "image",
-        "url": "media/images/img_001.jpg"
+        "source": "external",
+        "url": "https://pixabay.com/photos/al-aqsa-mosque-muslim-jerusalem-1233827/"
     },
     {
         "id": "img_002",
         "type": "image",
-        "url": "media/images/img_002.jpg"
-    },
-    {
-        "id": "img_003",
-        "type": "image",
-        "url": "media/images/img_003.jpg"
-    },
-    {
-        "id": "img_004",
-        "type": "image",
-        "url": "media/images/img_004.jpg"
-    },
-    {
-        "id": "img_005",
-        "type": "image",
-        "url": "media/images/img_005.jpg"
-    },
-    {
-        "id": "img_006",
-        "type": "image",
-        "url": "media/images/img_006.jpg"
-    },
-    {
-        "id": "img_007",
-        "type": "image",
-        "url": "media/images/img_007.jpg"
+        "source": "external",   
+        "url": "https://pixabay.com/photos/sultan-ahmet-mosque-cami-mosque-6604492/"
     }
 ]
