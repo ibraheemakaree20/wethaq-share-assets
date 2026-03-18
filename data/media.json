@@ -42,6 +42,18 @@
         "url": "https://pixabay.com/videos/sky-clouds-atmosphere-weather-213763/"
     },
     {
+        "id": "vid_008",
+        "type": "video",
+        "source": "external",
+        "url": "https://pixabay.com/videos/nature-barley-wheat-dew-sunrise-315363/"
+    },
+    {
+        "id": "vid_009",
+        "type": "video",
+        "source": "external",
+        "url": "https://pixabay.com/videos/ocean-waves-sea-background-118000/"
+    },
+    {
         "id": "img_001",
         "type": "image",
         "source": "external",
@@ -52,5 +64,23 @@
         "type": "image",
         "source": "external",   
         "url": "https://pixabay.com/photos/sultan-ahmet-mosque-cami-mosque-6604492/"
+    },
+    {
+        "id": "img_003",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/trees-forest-sunset-nature-sunrise-7544451/"
+    },
+    {
+        "id": "img_004",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/leaf-veins-fall-midrib-autumn-6220977/"
+    },
+    {
+        "id": "img_005",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/leaves-poinsettia-plant-8504392/"
     }
 ]
