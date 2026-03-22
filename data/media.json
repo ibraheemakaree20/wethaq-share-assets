@@ -63,13 +63,19 @@
         "id": "vid_011",
         "type": "video",
         "source": "external",
-        "url": "https://pixabay.com/videos/niagara-niagara-falls-water-falls-28707/"
+        "url": "https://pixabay.com/videos/tree-foliage-rain-forest-woodland-176026/"
+    },
+    {
+        "id": "vid_012",
+        "type": "video",
+        "source": "external",
+        "url": "https://pixabay.com/videos/zoom-out-zoom-out-earth-143015/"
     },
     {
         "id": "img_001",
         "type": "image",
         "source": "external",
-        "url": "https://pixabay.com/photos/al-aqsa-mosque-muslim-jerusalem-1233827/"
+        "url": "https://pixabay.com/photos/morocco-mosque-architecture-gallery-2435391/"
     },
     {
         "id": "img_002",
@@ -94,5 +100,35 @@
         "type": "image",
         "source": "external",
         "url": "https://pixabay.com/photos/leaves-poinsettia-plant-8504392/"
+    },
+    {
+        "id": "img_006",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/mosque-minar-night-shakargarh-minar-7576370/"
+    },
+    {
+        "id": "img_007",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/sunset-mountains-forest-fog-nature-6369825/"
+    },
+    {
+        "id": "img_008",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/landscape-mountains-nature-forest-7396852/"
+    },
+    {
+        "id": "img_009",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/mosque-architecture-travel-old-3135708/"
+    },
+    {
+        "id": "img_010",
+        "type": "image",
+        "source": "external",
+        "url": "http://pixabay.com/photos/milky-way-chaguazoso-about-galicia-1043411/"
     }
 ]
