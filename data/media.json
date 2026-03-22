@@ -54,6 +54,18 @@
         "url": "https://pixabay.com/videos/ocean-waves-sea-background-118000/"
     },
     {
+        "id": "vid_010",
+        "type": "video",
+        "source": "external",
+        "url": "https://pixabay.com/videos/palm-tree-tropical-wind-climate-157856/"
+    },
+    {
+        "id": "vid_011",
+        "type": "video",
+        "source": "external",
+        "url": "https://pixabay.com/videos/niagara-niagara-falls-water-falls-28707/"
+    },
+    {
         "id": "img_001",
         "type": "image",
         "source": "external",
