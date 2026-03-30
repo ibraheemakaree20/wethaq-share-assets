@@ -148,5 +148,17 @@
         "type": "image",
         "source": "external",
         "url": "http://pixabay.com/photos/milky-way-chaguazoso-about-galicia-1043411/"
+    },
+    {
+        "id": "img_011",
+        "type": "image",
+        "source": "external",
+        "url": "https://pixabay.com/photos/boat-lake-mountains-snow-italy-6686952/"
+    },
+    {
+        "id": "img_012",
+        "type": "image",
+        "source": "internal",
+        "url": "/assets/images/img_012.png"
     }
 ]
