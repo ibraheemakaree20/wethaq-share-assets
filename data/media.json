@@ -90,6 +90,12 @@
         "url": "https://pixabay.com/videos/sea-ocean-seagulls-birds-sunset-140111/"
     },
     {
+        "id": "vid_005",
+        "type": "video",
+        "source": "internal",
+        "url": "/assets/videos/vid_005.mp4"
+    },
+    {
         "id": "img_001",
         "type": "image",
         "source": "external",
